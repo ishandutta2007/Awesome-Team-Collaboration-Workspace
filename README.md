@@ -72,73 +72,73 @@ Below is a comparison of commercial, cloud-hosted team collaboration and workspa
 Self-hosted, community-driven team collaboration, knowledge bases, and workspace tools sorted in descending order by GitHub stargazers.
 
 ### AppFlowy 📱
-[![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
 **Stack:** Flutter / Rust | **License:** AGPL-3.0 | [Repository](https://github.com/AppFlowy-IO/AppFlowy)  
 AppFlowy is an open-source Notion alternative built with Flutter and Rust that gives users 100% control over their data, privacy, and offline accessibility. It provides rich text editing, customizable database tables, Kanban boards, calendar views, and local AI integration.  
 **Best for:** Teams and individual knowledge workers seeking a privacy-first, local-first alternative to Notion with high cross-platform performance.
 
 ### AFFiNE 🎨
-[![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
 **Stack:** TypeScript / Rust / React | **License:** MIT | [Repository](https://github.com/toeverything/AFFiNE)  
 AFFiNE is a next-generation workspace that unifies docs, whiteboards, and database tables into an integrated canvas. It allows switching seamlessly between a structured Notion-like document view and an infinite Miro-like whiteboard canvas with real-time multi-user editing and offline-first data sync.  
 **Best for:** Visual thinkers, product squads, and cross-functional teams wanting hybrid document and whiteboard collaboration in a single workspace.
 
 ### Plane ✈️
-[![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
 **Stack:** TypeScript / Python (Django) / PostgreSQL | **License:** AGPL-3.0 | [Repository](https://github.com/makeplane/plane)  
 Plane is an open-source project and product management platform designed as a modern alternative to Jira, Linear, and Asana. It features issue tracking, sprints (cycles), product modules, roadmaps, analytics, and collaborative markdown pages.  
 **Best for:** Engineering teams and agile product organizations needing robust issue management and sprint tracking with a refined UI.
 
 ### Rocket.Chat 🚀
-[![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
 **Stack:** TypeScript / Node.js / MongoDB | **License:** MIT / Commercial | [Repository](https://github.com/RocketChat/Rocket.Chat)  
 Rocket.Chat is an enterprise-grade communications platform delivering team chat, audio/video conferencing, file sharing, customer omnichannel messaging, and Matrix federation. It offers deep compliance controls including HIPAA, GDPR, and air-gapped deployment configurations.  
 **Best for:** Enterprises and regulated organizations needing strict data governance, secure messaging channels, and omnichannel communication.
 
 ### Outline 📑
-[![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
 **Stack:** TypeScript / Node.js / React / PostgreSQL / Redis | **License:** BSL-1.1 / Open Core | [Repository](https://github.com/outline/outline)  
 Outline is a fast, beautifully designed team knowledge base and wiki platform. It features Markdown-first collaborative editing, granular permissions, collection organization, full-text instant search, and integrations with Slack, Figma, and Google Workspace.  
 **Best for:** Companies and development teams wanting a modern, minimal, fast documentation hub as an alternative to Confluence or Notion.
 
 ### Mattermost 💬
-[![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
 **Stack:** Go / React / PostgreSQL | **License:** MIT / Open Core | [Repository](https://github.com/mattermost/mattermost)  
 Mattermost is an open-source, self-hosted collaboration platform designed for technical and operational teams. Written in Go, it features 1:1 and channel-based chat, integrated workflow Playbooks, boards, audio calling, and deep integrations with GitHub, GitLab, and Jira.  
 **Best for:** Software engineering, DevOps, and defense/security operations teams requiring compliant, high-trust developer communications.
 
 ### Nextcloud Hub ☁️
-[![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
 **Stack:** PHP / MariaDB / PostgreSQL / Redis | **License:** AGPL-3.0 | [Repository](https://github.com/nextcloud/server)  
 Nextcloud Hub combines on-premises enterprise file sync and share with Talk (chat and video conferencing), Groupware (calendar, mail, contacts), and Nextcloud Office (real-time document editing). It is one of the most widely adopted on-premises productivity suites.  
 **Best for:** Organizations needing full data sovereignty over files, documents, calendars, and communications within an integrated self-hosted suite.
 
 ### Huly ⚡
-[![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
 **Stack:** TypeScript / PostgreSQL / Elasticsearch / Redpanda | **License:** EPL-2.0 | [Repository](https://github.com/hcengineering/platform)  
 Huly is an all-in-one open-source workspace positioned as a comprehensive alternative to Linear, Slack, and Notion. It bundles issue tracking, team chat channels, collaborative documents, virtual office maps, and a planner into a high-performance reactive interface.  
 **Best for:** Fast-moving engineering startups wanting to consolidate task management, team chat, and documentation into a single self-hosted tool.
 
 ### Zulip 🧵
-[![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
 **Stack:** Python / Django / TypeScript / PostgreSQL | **License:** Apache 2.0 | [Repository](https://github.com/zulip/zulip)  
 Zulip provides real-time team chat with a unique topic-based threading model. By combining stream categorization with individual message topics, Zulip ensures both live and asynchronous discussions remain clear, contextual, and searchable without disappearing in channel noise.  
 **Best for:** Globally distributed, asynchronous-first remote teams and open-source communities that prioritize organized discussion history.
 
 ### Docmost 📖
-[![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
 **Stack:** Node.js / PostgreSQL / Redis | **License:** AGPL-3.0 | [Repository](https://github.com/docmost/docmost)  
 Docmost is an open-source collaborative wiki and documentation software created as a lightweight alternative to Confluence and Notion. It supports spaces, nested hierarchy, real-time multiplayer editing, built-in diagrams (Draw.io, Excalidraw, Mermaid), and local authentication.  
 **Best for:** Technical teams seeking an intuitive, self-hosted team wiki with built-in diagramming tools and simple Docker deployment.
 
 ### CryptPad 🔒
-[![GitHub stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
 **Stack:** JavaScript / Node.js | **License:** AGPL-3.0 | [Repository](https://github.com/cryptpad/cryptpad)  
 CryptPad is a private-by-design, end-to-end encrypted collaboration suite. It includes collaborative rich text documents, spreadsheets, presentations, code editors with syntax highlighting, Kanban task boards, whiteboards, and forms—all encrypted in the browser before transmission.  
 **Best for:** Privacy-conscious teams, journalists, researchers, and NGOs requiring zero-knowledge, cryptographically secure document collaboration.
 
 ### Colanode 🌐
-[![GitHub stars](https://img.shields.io/github/stars/colanode/colanode?style=social&color=white)](https://github.com/colanode/colanode/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/colanode/colanode?style=social&color=white)](https://github.com/colanode/colanode/stargazers)  
 **Stack:** TypeScript / PostgreSQL (pgvector) / Redis | **License:** Open Source | [Repository](https://github.com/colanode/colanode)  
 Colanode is an open-source local-first collaboration workspace combining real-time chat, rich text wikis, and customizable databases. Built around local SQLite storage and Yjs CRDTs, users can work seamlessly offline with automatic background sync upon reconnection.  
 **Best for:** Teams prioritizing offline-first workflows, data ownership, and integrated chat and Notion-style database management.
@@ -179,7 +179,7 @@ Contributions are welcome! If you know of an open-source Team Collaboration or W
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a new branch: `git checkout -b feature/add-tool`.
-3. ✏️ Add your tool with the project name, star badge, tech stack, license, and description.
+3. ✏️ Add your tool with the project name, Stars_Badge, tech stack, license, and description.
 4. 🔍 Ensure the tool is actively maintained and open source.
 5. 🚀 Submit a pull request.
 
